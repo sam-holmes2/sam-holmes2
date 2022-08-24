@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sam-holmes2
-- 👀 I’m interested in all things InfoSec!
-- 🌱 I’m currently learning the fundamentals of AppSec, NetSec, MobSec and CloudSec.
-- 💞️ I’m looking to collaborate on any research projects suitable for a beginner in the industry (basic python automation tools etc)
-- 📫 Email me at samholmes2a@gmail.com or visit https://samholmes.org for more info regarding my personal interests. 
+Associate Security Consultant at WithSecure
