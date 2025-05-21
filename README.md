@@ -1,1 +1,1 @@
-Associate Security Consultant at WithSecure
+Consultant at ControlPlane
